@@ -1,0 +1,22 @@
+* {
+      /* background-color: #192648; */
+      outline: 1px solid red;
+
+ }
+
+
+ app-header{
+   position: fixed;
+   top: 0;
+   left: 0;
+   right: 0;
+ }
+
+ main{
+    display: flex;
+    gap: 20px; 
+    justify-content: space-around;
+    margin: 100px 250px;
+ }
+
+

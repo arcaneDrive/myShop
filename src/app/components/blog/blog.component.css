@@ -1,0 +1,54 @@
+/* * {
+  outline: 1px solid red;
+} */
+
+
+.fliter{
+  display: flex;
+
+}
+
+.fliter button{
+  background-color: transparent;
+  height: 50px;
+
+}
+
+
+.banner .aboutChallenge {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.banner .content .img {
+  margin: 20px 0;
+}
+
+
+.banner .content .title h2{
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+.banner .content .title h3{
+  font-size: 16px;
+  font-weight: bold;
+}
+
+
+
+.advert {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.advert img{
+  margin-left: 50px;
+  width: 5%;
+  height: 40px;
+  border-radius: 10px;
+}
+

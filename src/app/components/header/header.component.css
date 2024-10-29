@@ -1,0 +1,74 @@
+* {
+    outline: 1px solid red;
+ }
+gg
+.navBarContainer{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    background-color: #192648;
+    /* margin: 0px 500px; */
+    /* padding: 10px 260px;  */
+    /* margin-left: 20px;
+    margin-right: 20px; */
+}
+
+
+.divContainer{
+    display: flex;
+    justify-content: space-between;
+    width: 72%;
+    /* padding: 0 10px; */
+}
+
+
+
+.navBar{
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.searchContainer{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 20px;
+    width: 500px;
+}
+
+
+.searchContainer .left{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+form {
+    width: 200px;      /* Remove any shadow */
+}
+
+
+
+input {
+    border: none;           /* Remove the border */
+    outline: none;          /* Remove the focus outline */
+    background: none;       /* Remove background color */
+    box-shadow: none;       /* Remove any shadow */
+}
+
+img{
+    object-fit: contain;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.login{
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eede7129-d65a-4751-9312-3cee46e2f8b6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/blog/blog.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/blog/blog.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/blog/blog.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/blog/blog.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/blog/blog.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/blog/blog.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/footer/footer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/footer/footer.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/header/header.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/header/header.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/header/header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/header/header.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/menu/menu.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/menu/menu.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/menu/menu.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/menu/menu.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2o7FtDEY6e76XQ0ygr2a4mLBOkZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eede7129-d65a-4751-9312-3cee46e2f8b6" name="Changes" comment="" />
+      <created>1730212920467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730212920467</updated>
+      <workItem from="1730212922047" duration="31000" />
+    </task>
+    <servers />
+  </component>
+</project>
